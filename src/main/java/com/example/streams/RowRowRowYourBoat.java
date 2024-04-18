@@ -35,3 +35,4 @@ public class RowRowRowYourBoat {
         System.out.println("10) " + stream.average());
     }
 }
+
